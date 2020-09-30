@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "276758757892",
+    "firebase_url": "https://thikithaniapp.firebaseio.com",
+    "project_id": "thikithaniapp",
+    "storage_bucket": "thikithaniapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:276758757892:android:3d44988beca65100caab51",
+        "android_client_info": {
+          "package_name": "com.example.pruebathikathani"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "276758757892-p369al4npbmppepidn7vgq90936egofr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCB8Zgbvo6XXfvfv1atsCdGLbNMWO0c8H0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "276758757892-p369al4npbmppepidn7vgq90936egofr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
